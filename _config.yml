@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:Dabing2019/Dabing2019.github.io.git
-  branch: master
+  branch: main
