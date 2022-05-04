@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Dabing2019/Dabing2019.github.io.git
+  repository: git@github.com:Dabing2019/Dabing2019.github.io.git
   branch: master
